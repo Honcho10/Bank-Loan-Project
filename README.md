@@ -4,8 +4,10 @@ The aim of this project is to give a Detailed Dashboard that provides a better a
 
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 ## Analyzing the Data
+
 To be able to analyse this data and to dig deep into the loan status, pivot tables and pivot charts are been utilized. The next thing done is to consider and target what metrics we'll be using to gain insight in this data and to be able to visualize and design the dashboard.
 ### Key Performance Indicators (KPIs) Requirements
+
 1. Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
 2. Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
 3. Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over- DAYA TIFFORIALS Month (MoM) changes.
